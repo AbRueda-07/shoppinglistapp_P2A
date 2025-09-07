@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lista de Compras</string>
+    <string-array name="estados_array">
+        <item>Todo</item>
+        <item>Pendiente de compra</item>
+        <item>Comprado</item>
+    </string-array>
+</resources>
